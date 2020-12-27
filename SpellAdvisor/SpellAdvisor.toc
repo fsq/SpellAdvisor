@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: palain
+## Author: fsq
+## Version: 0.1
+
+main.lua
